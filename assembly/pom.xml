@@ -634,6 +634,15 @@
                                                 </source>
                                             </sources>
                                         </mapping>
+                                        <mapping>
+                                            <directory>/var/lib/splicemachine</directory>
+                                            <sources>
+                                                <source>
+                                                    <location>common/src/main/resources/bin</location>
+                                                </source>
+                                            </sources>
+                                        </mapping>
+
                                     </mappings>
                                 </configuration>
                             </execution>
